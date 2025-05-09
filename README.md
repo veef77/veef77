@@ -1,6 +1,2 @@
-## Hi, im veef77 👋
 
-- ✌️ The V.
-- 🏫 High school CS student
-- 🌱 Currently learning Python, Java, JavaScript, C, Lua
-- 🎓 To hell with the education system
+hi im gae and im an expert in kissing [einie](https://github.com/eingorz) & [notDani](https://github.com/notdanatall) :3
